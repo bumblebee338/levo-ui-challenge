@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/levo-ui-challenge/static/css/main.3b94fac4.css",
+    "main.js": "/levo-ui-challenge/static/js/main.e4aabe1a.js",
+    "static/js/453.b5645c96.chunk.js": "/levo-ui-challenge/static/js/453.b5645c96.chunk.js",
+    "index.html": "/levo-ui-challenge/index.html",
+    "main.3b94fac4.css.map": "/levo-ui-challenge/static/css/main.3b94fac4.css.map",
+    "main.e4aabe1a.js.map": "/levo-ui-challenge/static/js/main.e4aabe1a.js.map",
+    "453.b5645c96.chunk.js.map": "/levo-ui-challenge/static/js/453.b5645c96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b94fac4.css",
+    "static/js/main.e4aabe1a.js"
+  ]
+}
