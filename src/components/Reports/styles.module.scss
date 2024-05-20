@@ -1,0 +1,42 @@
+.card{
+    width: 90%;
+    padding: 4px 8px;
+    background: #99999921;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px 0;
+    color: gray;
+
+    h3{
+        margin: 0;
+        text-align: left;
+    }
+}
+
+.heading{
+    margin: 0;
+}
+
+.test_data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    & > span:first-child{
+        margin-right: 8px;
+    }
+}
+
+.times{
+    color: rgba(128, 128, 128, 0.543);
+}
+
+.success{
+    color: green;
+    width: 100px;
+}
+.failed{
+    color: red;
+    width: 100px;
+}
