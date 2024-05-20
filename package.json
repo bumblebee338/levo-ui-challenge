@@ -1,6 +1,7 @@
 {
-  "name": "my-app",
+  "name": "levo-ui-challenge",
   "version": "0.1.0",
+  "homepage": "https://gitname.github.io/levo-ui-challenge",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -45,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
